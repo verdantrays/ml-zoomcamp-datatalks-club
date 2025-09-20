@@ -1,1 +1,1 @@
-# ml-zoomcamp-datatalks.club
+# ml-zoomcamp-datatalks-club
