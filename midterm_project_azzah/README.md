@@ -24,7 +24,7 @@ The project covers:
 
 ---
 
-# 📌 **1. Problem Description**
+# **1. Problem Description**
 
 CO₂ concentration is one of the most important indicators for understanding climate change.  
 This project aims to develop a model that can **predict future CO₂ levels** using environmental variables such as:
@@ -40,7 +40,7 @@ The objective is to expose the end result as a **reproducible API service**, so 
 
 ---
 
-# 🧠 **2. Model & Approach**
+# **2. Model & Approach**
 
 The following steps were implemented:
 
@@ -72,8 +72,8 @@ There are **two main ways** to use this project:
 ## **A. Run Locally (Without Docker)**
 
 ### **1. Clone the repository**
-git clone <your-repo-url>
-cd midterm_project
+git clone ml-zoomcamp-datatalks.club
+cd midterm_project_azzah
 
 ### **2. Install dependencies**
 pip install -r requirements.txt
@@ -122,7 +122,7 @@ http://localhost:8000
 ---
 
 # 🗂️ **Project Structure**
-
+```bash
 midterm_project_azzah/
 │── data/
 │    └── climate_change_data.csv
@@ -137,8 +137,7 @@ midterm_project_azzah/
 │── notebook.ipynb
 │── README.md
 │── requirements.txt
-
-
+```
 # **4. Training Script**
 
 Training is handled by:
